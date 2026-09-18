@@ -38,6 +38,11 @@ The project consists of two independent **ESP32-C3 SuperMini** nodes:
 
 ---
 
+
+| Project | (Whatsapp Image 2026-08-24 at 4.23.08.jpeg) |
+| Microcontrollers | (esp32c3Supermini.png) |
+| Circuit | (flexesp32c3supermin.jpeg) |
+
 Demonstration of Project - (https://youtu.be/QTZwDk5j4d4)
 
 ## 🚀 Getting Started
